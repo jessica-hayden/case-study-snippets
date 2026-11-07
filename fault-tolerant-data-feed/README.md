@@ -22,4 +22,4 @@ I'd add a dry-run mode that logs what the deployment would have changed without 
 
 The 30% volume threshold was chosen empirically, if I were setting this up again I'd want a rolling baseline built from several weeks of vendor data rather than a single fixed percentage, since some vendors naturally fluctuate more than others.
 
-Full case study: [link once live]
+Full case study: https://jesshayden.netlify.app/analyst/fault-tolerant-data-pipeline

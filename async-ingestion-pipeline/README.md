@@ -22,4 +22,4 @@ I'd add a circuit breaker around the enrichment call so that after a run of cons
 
 In hindsight, a 0.5 second timeout was a reasonable starting point, but I'd want real latency data from the dependency before fixing that number. A fixed timeout is a guess until it's backed by actual percentile data from production traffic.
 
-Full case study: [link once live]
+Full case study: https://jesshayden.netlify.app/analyst/silent-failure-async-pipeline

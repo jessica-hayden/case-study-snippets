@@ -22,4 +22,4 @@ I'd add a metrics counter tracking how often the sanitise path fires per vendor,
 
 The same underlying principle, fail safe rather than fail total, shows up again in the fault-tolerant data feed snippet in this repo, just applied to a very different kind of system.
 
-Full case study: [link once live]
+Full case study: https://jesshayden.netlify.app/analyst/validation-layer-webhook-ingestion
