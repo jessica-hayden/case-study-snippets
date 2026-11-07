@@ -1,0 +1,10 @@
+{
+  "name": "open-redirect-guard",
+  "version": "1.0.0",
+  "description": "A small post-login redirect guard, with the tests that found the gaps in the first two versions.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
